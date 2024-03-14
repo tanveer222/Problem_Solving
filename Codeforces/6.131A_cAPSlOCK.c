@@ -1,4 +1,3 @@
-//TheDark ===>> 23 June 2022
 //Checking CapsLock
 #include<stdio.h>
 #include<string.h>
