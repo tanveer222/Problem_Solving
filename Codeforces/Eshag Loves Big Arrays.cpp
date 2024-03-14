@@ -1,4 +1,3 @@
-//The Dark ----> 25 August 2023
 // Eshag Loves Big Arrays
 #include<bits/stdc++.h>
 using namespace std;
