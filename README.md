@@ -4,4 +4,4 @@
 # CodeForces ( 9 solved )
 # Leetcode ( 6 solved )
 # UVA ( 4 solved )
-# Others ( 0 solved )
+# Others ( 1 solved )
